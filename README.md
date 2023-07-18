@@ -15,7 +15,7 @@ Please note that due to space limitations, the .xlsx files are not provided on G
 
 https://zenodo.org/record/8161173
 
-The dataset contains data for six measurement campaigns carried out in 2021 in Rome, Italy (both NB-IoT an 5G) and seven campaigns carrie out in 2019 in Oslo, Norway (NB-IoT only).
+The dataset contains data for six measurement campaigns carried out in 2021 in Rome, Italy (both NB-IoT an 5G) and seven campaigns carried out in 2019 in Oslo, Norway (NB-IoT only).
 
 When using this code in a scientific publication, please cite the following research papers:
 

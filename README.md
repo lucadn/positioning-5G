@@ -5,7 +5,8 @@ For each technology, the code includes:
 
 - a main script;
 - a function called by the main script to extract raw experimental data from .xlsx files, process them and build the data file;
-- supporting functions to load and process raw data.
+- supporting functions to load and process raw data;
+- matlab workspaces containing processed data.
 
 
 
@@ -15,7 +16,7 @@ Please note that due to space limitations, the .xlsx files are not provided on G
 
 https://zenodo.org/record/8161173
 
-The dataset contains data for six measurement campaigns carried out in 2021 in Rome, Italy (both NB-IoT an 5G) and seven campaigns carried out in 2019 in Oslo, Norway (NB-IoT only).
+The dataset contains data for six measurement campaigns carried out in 2021 in Rome, Italy (both NB-IoT an 5G) and seven campaigns carried out in 2019 in Oslo, Norway (NB-IoT only). The matlab workspaces provided in this repository include data from all the Rome campaigns, but the user can easily generate workspaces for a subset of the Rome campaigns; in the case of NB-IoT, data from a subset or all Oslo campaigns can be used as well.
 
 When using this code in a scientific publication, please cite the following research papers:
 

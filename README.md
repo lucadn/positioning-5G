@@ -4,10 +4,17 @@ This Matlab code performs positioning in NB-IoT and 5G networks by fingerprintin
 For each technology, the code includes:
 
 - a main script;
-- a function called by the main script to extract raw data from the .xls files for the six campaigns considered in the analysis, process them and build the data file;
+- a function called by the main script to extract raw experimental data from .xlsx files, process them and build the data file;
 - supporting functions to load and process raw data.
 
+
+
 Please refer to the comments in the files for further information.
+Please note that due to space limitations, the .xlsx files are not provided on GitHub. They are provided in the open source dataset available at the following link:
+
+
+
+The dataset contains data for six measurement campaigns carried out in 2021 in Rome, Italy (both NB-IoT an 5G) and seven campaigns carrie out in 2019 in Oslo, Norway (NB-IoT only).
 
 When using this code in a scientific publication, please cite the following research papers:
 

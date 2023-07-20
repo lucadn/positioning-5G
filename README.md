@@ -1,4 +1,4 @@
-# positioning-5G
+# Outdoor positioning by fingerprinting using Weighted k Nearest Neighbour in 5G and NB-IoT networks
 This Matlab code performs positioning in NB-IoT and 5G networks by fingerprinting using the Weighted k Nearest Neighbour algorithm, with a similarity metric combining a 3GPP radio parameter (RSSI, SINR, RSRP, RSRQ) and the number of PCIs (5G) and NPCIs (NB-IoT) in common between points. Please refer to the papers listed at the bottom of this file for additional details.
 
 For each technology, the code includes:
